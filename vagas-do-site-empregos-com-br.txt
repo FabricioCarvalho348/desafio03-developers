@@ -1,0 +1,158 @@
+Título: Desenvolvedor PHP Pleno
+Empresa: TECHSE ADMINISTRACAO E HUTING DE PROFISSIONAIS LTD
+Descrição: Nível superior completo ou cursando, sistema de informação, análise e desenvolvimento de sistemas ou área correlata; Experiência em desenvolvimento de sistemas, APIs, aplicativos WEB; Experiência em PHP, LARAVEL, JS, CSS, HTML, MYSQL e POSTGRESQL ;. Experiência em Implantação de sistemas; Responsável por: Desenvolver sistemas, a...
+Leia mais
+Salário: A combinar
+
+Título: Programador PHP
+Empresa: Empregos.com.br
+Descrição: Realizará atividades pertinentes a função de programador Sênior.
+Salário: De R$ 6.501,00 a R$ 7.000,00
+
+Título: Desenvolvedor PHP
+Empresa: Moot It
+Descrição: Se você está em busca de uma nova oportunidade, poderá encontrar aqui na MOOT. Requisitos necessários: Conhecimento de criação e manutenção de soluções web em PHP 3+ anos de experiência em desenvolvimento web JavaScript Modelagem de Banco de Dados SQL Engenharia de Software Web desiging CSS, HTML Atuação: Híbrida 3X 2 (Home x Of...
+Leia mais
+Salário: A combinar
+
+Título: Desenvolvedor PHP
+Empresa: Paola Salgado Gestão de Carreiras Eirelli
+Descrição: Irá fazer a programação do software de acordo com a demanda, acompanhar os desenvolvedores, auxiliar no desenvolvimento de melhorias, evoluções e correções de erro, desenvolver novas soluções, cadastro de clientes no sistema, apoiar na configuração inicial com objetivo de integrar novos membros com mais agilidade, realizar teste...
+Leia mais
+Salário: A combinar
+
+Título: Desenvolvedor PHP
+Empresa: Rheserva Consultoria
+Descrição: A empresa atua neste nicho de mercado a mais de 25 anos de forma permanente e contínua. Durante este período já prestou serviços a mais de 200 (duzentas) entidades dos Estados de Minas Gerais e Rio de Janeiro. Atualmente, atende 160 (cento e sessenta) entidades entre Prefeituras, Câmaras Municipais, Consórcios, Intermunicipais, ...
+Leia mais
+Salário: A combinar
+
+Título: Desenvolvedor PHP
+Empresa: Apoiarh Consultoria em Gestão de Pessoas
+Descrição: Instalação, configuração e uso de distribuições base Debian/PHP/Apache.
+Aplicação SASS/Git/arquitetura MVC, PHP, Laravel , SQL e Jquery avançado.
+Construção e consumo de API REST.
+Gestação de pacotes com Composer.
+Bancos de dados postgreSQL.
+Salário: A combinar
+
+Título: Desenvolvedor PHP
+Empresa: Rheserva Consultoria
+Descrição: Buscamos um profissional pro-ativo voltado ao aprendizado. Esse profissional irá trabalhar em um sistema contabil voltado para o setor público. Atuação em sistema back-end com Domínio do PHP, experiência em orientação a objetos e arquitetura de desenvolvimento, preferencialmente MVC. Conhecimento em HTML, CSS, Javascript e JQuer...
+Leia mais
+Salário: A combinar
+
+Título: Desenvolvedor PHP
+Empresa: GRUPO LUZEMS
+Descrição: Ajudar o time no desenho de soluções com arquitetura evolutiva, desenvolver aplicações integradas, construir aplicações com API Restful, desenvolver testes automatizados; Desenvolver e implementar APIs; Desenvolvimento de aplicativos; Embasamento teórico, habilidade e preocupação com a excelência técnica e boas práticas de desen...
+Leia mais
+Salário: A combinar
+
+Título: Desenvolvedor PHP
+Empresa: Peoplepro Informatica Ltda
+Descrição: Será responsável por desenvolvimento em php.
+Salário: A combinar
+
+Título: Desenvolvedor PHP PL – Fullstack
+Empresa: Econet Editora
+Descrição: Este desafio é para trabalhar na ECONET Editora, que tem 20 anos de mercado, continua em crescimento e expansão, e que tem na Tecnologia um pilar de extrema importância para alavancar os negócios da corporação, sustentado em pessoas e no seu desenvolvimento para promover o crescimento. Irá atuar no time de Tecnologia e Desenvolv...
+Leia mais
+Salário: A combinar
+
+Título: Desenvolvedor PHP Full stack pleno
+Empresa: Tempo e Trabalho
+Descrição: Desenvolver Software de gestão tanto no Back-end quanto no Front-end, utilizando a linguagem PHP.
+- Setup de Trabalho: - Mac mini 16gb i3 - Monitor principal 25' ultrawide led IPS - Monitor auxiliar 21' led IPS Conhecimentos que irá aprender na empresa: - Docker e docker-compose - JavaScript/TypeScript - React - HTML/CSS -...
+Leia mais
+Salário: A combinar
+
+Título: Programador PHP
+Empresa: Ação Direta
+Descrição: Desenvolvimento e manutenção de Sistemas e Web Sites
+Salário: A combinar
+
+Título: Programador de PHP
+Empresa: GP Trabalho Temporário
+Descrição: Analisar, desenvolver e aprimorar a eficiência, estabilidade e performance dos sistemas.
+Salário: A combinar
+
+Título: Desenvolvedor Back End PHP
+Empresa: Brivia
+Descrição: Atuará nas atividades internas e demais funções pertinentes ao cargo. Necessário conhecimento na área de atuação.
+Salário: A combinar
+
+Título: Desenvolvedor Full Stack PHP
+Empresa: Join Tecnologia
+Descrição: Atuará nas atividades internas e demais funções pertinentes ao cargo. Necessário Conhecimento na área de atuação.
+Salário: A combinar
+
+Título: Estágio na área de Programação PHP
+Empresa: Empresa confidencial
+Descrição: Apoio ao setor de desenvolvimento, nas atividades relacionados ao setor conforme necessário. Requisitos: Conhecimentos em lógica de programação Conhecimentos em Banco de dados Fácil acesso a Lauro de Freitas Facilidade no trabalho em equipe Diferenciais: - PHP - React Native - MySQL - C - Arduino
+Salário: A combinar
+
+Título: Programador Júnior PHP
+Empresa: Empresa confidencial
+Descrição: Desenvolvimento e manutenção de Sistemas, utilizando as linguagens PHP e Javascript (avançados) e Bancos de dados MySQL. Análise e requisitos junto ao cliente. Experiência com PHP e MySQL. Desejados: Conhecimento em React-Native ou Next.js Conhecimento em plataforma Linux
+Salário: A combinar
+
+Título: Pessoa Desenvolvedora PHP Sênior
+Empresa: Empresa confidencial
+Descrição: Atuará nas atividades internas e demais funções pertinentes ao cargo. Necessário conhecimento na área de atuação.
+Salário: A combinar
+
+Título: Pessoa Desenvolvedora PHP Fullstack Júnior
+Empresa: MOLLICA IT
+Descrição: Buscando projetos internacionais? Então vem com a Mollica IT e encontre a oportunidade certa pra dar match! Qual será a sua missão: Atuar no desenvolvimento e manutenção de software Web já existente, bem como desenvolvimento de novos módulos. Dúvidas? Entre em contato com talentmollicait.com Requisitos O que você precisa ter? Ex...
+Leia mais
+Salário: A combinar
+
+Título: Developer PHP Júnior
+Empresa: Rheserva Consultoria
+Descrição: Se você é proativo (a) e gosta de aprender, temos uma oportunidade para atuar em um E-comemrce em ascensão como Desenvolvedor (a) Web. Pré-requisitos: experiência como programador Web Back-end ; conhecimento em PHP, experiência em orientação a objetos e arquitetura de desenvolvimento, preferencialmente MVC. Conhecimentos sobre p...
+Leia mais
+Salário: A combinar
+
+Título: PROGRAMADOR PHP JR
+Empresa: C2 Recursos Humanos
+Descrição: Responsabilidades e atribuições: - Trabalhar com desenvolvimento Nota Fiscal Eletrônica (55 e 65) - Atuar no desenvolvimento de melhorias e correções no sistema - Aplicar boas práticas de desenvolvimento - Apoiar outras áreas no entendimento das funcionalidades do software ou da empresa - Atuar em novos projetos de acordo com a ...
+Leia mais
+Salário: A combinar
+
+Título: Desenvolvedor Fullstack PHP Pleno
+Empresa: Novo Rumo Consultoria em RH Ltda. - Me
+Descrição: Atuará nas atividades internas e demais funções pertinentes ao cargo. Necessário experiência na área de atuação.
+Salário: A combinar
+
+Título: Desenvolvedor Backend PHP Sr
+Empresa: Peoplepro Informatica Ltda
+Descrição: Será responsável por evoluir e fazer manutenção em sistemas escritos principalmente em scala, spark e php, projetar e desenvolver aplicações escaláveis e de alta performance, mapear e planejar a execução de tarefas ligadas a mudanças, correções e evoluções de média e/ou alta complexidades, nos componentes de backend, definir e e...
+Leia mais
+Salário: A combinar
+
+Título: Pessoa Desenvolvedora PHP Pleno
+Empresa: Cappta
+Descrição: Atuará nas atividades internas e demais funções pertinentes ao cargo. Necessário conhecimento na área de atuação.
+Salário: A combinar
+
+Título: Analista Programador PHP Tecnologia Da Informação
+Empresa: Quantum
+Descrição: Desenvolver aplicações eM PHP. Desenvolve sistemas de aplicação e elabora programas utilizando a linguagem PHP. Faz montagem da estrutura de banco de dados e codificação de programas, planejando etapas e ações de trabalho. Cria projetos, desde aplicativos básicos aos específicos e realiza implantação. Conhecimentos e experiência...
+Leia mais
+Salário: A combinar
+
+Título: Desenvolvedor Full Stack PHP (Time Marketing)
+Empresa: Alterdata Software
+Descrição: Atuará nas atividades internas e demais funções pertinentes ao cargo. Necessário conhecimento na área de atuação.
+Salário: A combinar
+
+Título: BackEnd PHP Pleno
+Empresa: 3 L M Informática
+Descrição: Desenvolver projetos novos e realização manutenção no ecossistema
+Salário: De R$ 3.001,00 a R$ 3.500,00
+
+Título: Administrador de Banco de Dados / SQL Server - Regional São Paulo
+Empresa: Montreal Informática
+Descrição: Atuará nas atividades internas e demais funções pertinentes ao cargo. Necessário conhecimento na área de atuação.
+Salário: A combinar
+
